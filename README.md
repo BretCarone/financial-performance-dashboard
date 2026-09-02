@@ -1,6 +1,6 @@
 # Financial Performance Dashboard
 
-A beginner-friendly Streamlit dashboard for comparing a company's annual financial performance and monthly adjusted stock-price data.
+An interactive Streamlit dashboard for comparing companies’ annual financial performance and monthly adjusted stock-price data.
 
 ## What this project shows
 
@@ -11,7 +11,7 @@ A beginner-friendly Streamlit dashboard for comparing a company's annual financi
 - Monthly adjusted stock-price performance
 - Automatically calculated Key Insights
 
-The included data is Apple, Microsoft, and NVIDIA fiscal 2023-2025. All financial statement values are in USD millions.
+The dashboard currently includes Apple, Microsoft, and NVIDIA financial data for fiscal years 2023-2025. All financial statement values are in USD millions. All financial statement values are in USD millions.
 
 ## Run it on Windows
 
@@ -66,7 +66,7 @@ operating_cash_flow_millions, capital_expenditures_millions,
 cash_and_equivalents_millions, total_debt_millions
 ```
 
-Total debt should equal commercial paper plus current term debt plus non-current term debt when those categories exist.
+Total debt should include short-term debt, the current portion of long-term debt, and non-current long-term debt when those categories are reported.
 
 ### Stock-price-data columns
 
@@ -76,9 +76,9 @@ company, date, adjusted_close
 
 Use dates written as `YYYY-MM-DD`, such as `2025-09-30`.
 
-## Resume-ready description
+## Project Summary
 
-Built a Python financial performance dashboard using Streamlit, pandas, and Plotly to visualize multi-year revenue, profitability, cash flow, capital structure, and adjusted stock-price performance. Designed a reusable CSV-based data model supporting comparison across companies.
+Built an interactive Python financial performance dashboard using Streamlit, pandas, and Plotly. The dashboard visualizes multi-year revenue, profitability, cash flow, capital structure, and adjusted stock-price performance across Apple, Microsoft, and NVIDIA using a reusable CSV-based data model.
 
 ## Data sources
 
