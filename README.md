@@ -11,7 +11,7 @@ A beginner-friendly Streamlit dashboard for comparing a company's annual financi
 - Monthly adjusted stock-price performance
 - Automatically calculated Key Insights
 
-The included data is Apple fiscal 2023-2025. All financial statement values are in USD millions.
+The included data is Apple, Microsoft, and NVIDIA fiscal 2023-2025. All financial statement values are in USD millions.
 
 ## Run it on Windows
 
