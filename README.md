@@ -2,9 +2,7 @@
 
 An interactive Streamlit dashboard for comparing companies’ annual financial performance and monthly adjusted stock-price data.
 
-## Dashboard Preview
 
-![Financial Performance Dashboard](dashboard-preview.png)
 
 ## What this project shows
 
