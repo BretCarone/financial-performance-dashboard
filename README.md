@@ -82,4 +82,4 @@ Built a Python financial performance dashboard using Streamlit, pandas, and Plot
 
 ## Data sources
 
-Apple annual financial figures were transcribed from Apple's fiscal 2024 and 2025 Form 10-K filings supplied for this project. The included stock-price values were transcribed from the supplied monthly-price document and use adjusted close.
+Annual financial figures for Apple, Microsoft, and NVIDIA were transcribed from company Form 10-K filings. Included monthly stock-price values use adjusted close.
